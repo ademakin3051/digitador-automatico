@@ -11,8 +11,9 @@ A aplicação possui uma interface gráfica feita com `Tkinter` e usa a bibliote
 ## 📸 Demonstração
 
 <p align="center">
-  <img src="demo.gif" width="600" alt="Demonstração do Digitador Automático" />
+  <img src="https://github.com/ademakin3051/digitador-automatico/blob/main/demo.gif?raw=true" width="600" alt="Demonstração do Digitador Automático" />
 </p>
+
 
 ---
 
