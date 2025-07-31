@@ -1,6 +1,6 @@
 
 
-# 🖥️ Digitador Automático - VS Code (Python + Tkinter + pynput)
+# 🖥️ Digitador Automático
 
 Este é um projeto em Python que simula a digitação automática de um texto em qualquer editor (como o VS Code).  
 A aplicação possui uma interface gráfica feita com `Tkinter` e usa a biblioteca `pynput` para controlar o teclado.
