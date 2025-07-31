@@ -1,6 +1,5 @@
-Claro, Natanael! Aqui está o **README completo, pronto para você colar no arquivo `README.md`** do seu repositório GitHub, com tudo integrado, incluindo a parte da demonstração com GIF:
 
-````markdown
+
 # 🖥️ Digitador Automático - VS Code (Python + Tkinter + pynput)
 
 Este é um projeto em Python que simula a digitação automática de um texto em qualquer editor (como o VS Code).  
@@ -13,6 +12,7 @@ A aplicação possui uma interface gráfica feita com `Tkinter` e usa a bibliote
 <p align="center">
   <img src="https://github.com/ademakin3051/digitador-automatico/blob/main/demo.gif?raw=true" width="600" alt="Demonstração do Digitador Automático" />
 </p>
+
 
 
 ---
